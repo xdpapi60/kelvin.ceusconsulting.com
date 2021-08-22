@@ -20,11 +20,11 @@ jQuery(document).ready(function( $ ) {
 
   // JavaScript Chart
   var doughnutData = [{
-      value: 70,
+      value: 95,
       color: "#1abc9c"
     },
     {
-      value: 30,
+      value: 05,
       color: "#ecf0f1"
     }
   ];
